@@ -12,7 +12,7 @@ setuptools.setup(
     description="Scrap steam games stats",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/dbeley/steam_stats",
+    url="https://github.com/Gumbaro/steam_stats",
     packages=setuptools.find_packages(),
     include_package_data=True,
     entry_points={"console_scripts": ["steam_stats=steam_stats.__main__:main"]},
